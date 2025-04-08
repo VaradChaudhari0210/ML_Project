@@ -85,5 +85,5 @@ To build and deploy a machine learning model that can accurately predict whether
 ## 💻 Run Locally
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/VaradChaudhari0210/ML_Project.git
    cd heart-disease-prediction
